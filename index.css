@@ -26,7 +26,7 @@ position: absolute;
         height: 150px;
         border: 2px solid rgb(159, 240, 9);
         position: absolute;
-            left: 350px;
+            left: 500px;
             top: 550px;
         border-radius: 12.5%
             
@@ -64,8 +64,6 @@ position: absolute;
         margin: 20px;
         background-image: url("image2.jpg");
         border-radius: 6.25px;
-        
-        
         }
 
 .box {
