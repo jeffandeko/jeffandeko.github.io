@@ -42,6 +42,13 @@ position: absolute;
         border-radius: 12.5%
         }
 
+
+        .contact {
+          width: 300px;
+          height: 150px;
+          border: 2px solid rgb(159, 240, 9);
+          border-radius: 12.5%
+          }
   body {
         
     background: repeating-linear-gradient(
