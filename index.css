@@ -7,18 +7,18 @@
   
   }
 .line2 {
-    font-size: 50px;
-    color:rgba(171, 209, 0, 0.959);
-    text-align: center;
-    left: 50px;
-    top: 500px;
-    background: white
+      font-size: 50px;
+      color:rgba(171, 209, 0, 0.959);
+      text-align: center;
+      left: 50px;
+      top: 500px;
+      background: white
     }
 
 .first {
-position: absolute;
-  left: 500px;
-  top: 225px;
+       position: absolute;
+          left: 500px;
+          top: 225px;
        }
       
 .second {
@@ -41,15 +41,14 @@ position: absolute;
           top: 550px;
         border-radius: 12.5%
         }
-
-
-        .contact {
+        
+.contact {
           width: 300px;
           height: 150px;
           border: 2px solid rgb(159, 240, 9);
           border-radius: 12.5%
           }
-  body {
+body {
         
     background: repeating-linear-gradient(
         180deg,
@@ -82,12 +81,12 @@ img {
 .about {
         text-align: center;    
         color: darkblue;
-        font-size: 30px;
-            
-}
+        font-size: 30px; 
+        }
+
 section { 
-    width: 600px;height: 300px;
-    display: block;
-  }
+          width: 600px;height: 300px;
+          display: block;
+       }
 
   
